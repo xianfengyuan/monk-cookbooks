@@ -6,6 +6,8 @@ sheer_cookbooks = "
 build-essential
 runit
 monkeybar
+yum
+yum-epel
 ".split
 
 # Include Opsworks Cookbooks
