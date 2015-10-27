@@ -3,6 +3,7 @@ branch = 'dev'
 sheer_git_url = 'git@github.com:/xianfengyuan'
 
 sheer_cookbooks = "
+build-essential
 runit
 monkeybar
 ".split
