@@ -4,6 +4,7 @@ sheer_git_url = 'git@github.com:/xianfengyuan'
 
 sheer_cookbooks = "
 build-essential
+feeder
 runit
 monkeybar
 yum
